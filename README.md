@@ -1,10 +1,10 @@
 # social-platform
 Its a normal webapp for user
 I created some functionality there like:
-Home page as a dashboard
-Register
-Login
-Logout
+Home page as a dashboard,
+Register,
+Login,
+Logout,
 Post sharing(still some work left)
 And will going to write a better search function
 
